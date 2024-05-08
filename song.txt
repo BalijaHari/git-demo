@@ -1,7 +1,9 @@
 executed repository by Epm
 <<<<<<< HEAD
 now operation
-=======
+
 the changes are working....
 it works in multiple lines!!!!
->>>>>>> 5e3223ab5f118f91c33faa24e072ba07190a52ed
+ qwertyuiop[
+ asdfghjkl
+ zxcvbnm,
